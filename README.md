@@ -1,1 +1,1 @@
-# PriceyApps
+Pricey Apps
